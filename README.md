@@ -1,51 +1,85 @@
-# Exp - 3 RAILWAY MANAGEMENT SYSTEM
+# Exp 03- RAILWAY MANAGEMENT SYSTEM
+# NAME : JAYASREE R
+# REG NO : 212223230087
 
-# AIM:To develop the Online Ticket Reservation System using Star UML tool.
+# AIM:
+
+To develop the Online Ticket Reservation System using Star UML tool.
+
+# PROBLEM STATEMENT:
+
+1.An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing passengers, particularly in the commercial airline, railway industries.
+
+2.An E-Ticket offers many advantages for both travelers and airline including security, flexibility and cost convenience. At the same time, it also provides the standard assurance of the traditional paper ticket, scaling choice, travel time options and other flexibilities.
+
+3.Passengers typically print out copies of their E-Ticket including confirmation E-mail and other document. All those documents can be replaced by pulling them out of the computer again and only a person with proper identification can actually use an E-Ticket.
+
+4.E-Ticket passengers can receive everything from gate assignments to cancellation or delay through E-mail, text messages sent to their home or business computers or to their cell phones.
+
+5.Finally, using E-Ticket is a more environmental friendly approach. The main purpose of the online bus ticket system is to provide another way for transnational customers to buy their tickets.
 
 # SRS (Procedure):
 
-Step 1 - Open StarUML and start a new project.
+## List of diagrams:
 
-Step 2 - Name the project based on the system (e.g., ATM, Library).
+1. Use Case Diagram
 
-Step 3 - Identify actors and use cases from the system requirements.
+2. Class Diagram
 
-Step 4 - Choose and draw diagrams (Use Case, Class, Sequence, etc.).
+3. Activity Diagram
 
-Step 5 - Add elements using the toolbox and connect them properly.
+4. Package Diagram
 
-Step 6 - Label all components clearly and meaningfully.
+5. Communication Diagram
 
-Step 7 - Save and export diagrams as images or PDF.
+6. Sequence Diagram
+
+## Actors Used-:
+
+1. Passenger
+
+2. TTR
+
+3. Ticket Counter
+
+4. Admin
 
 # DIAGRAMS:
-(upload all 6 diagrams)
 
-USE CASE
+## USE CASE:
 
-<img width="777" height="641" alt="image" src="https://github.com/user-attachments/assets/47a9ee20-0c51-4f77-8846-ce069c3560d4" />
+![image](https://github.com/user-attachments/assets/208f4877-59ac-4caa-a77b-d865fb5d2a67)
 
-CLASS DIAGRAM
 
-<img width="771" height="558" alt="image" src="https://github.com/user-attachments/assets/464955e1-eac8-404e-aa3d-c014b42be9a1" />
 
-ACTIVITY DIAGRAM
+## CLASS DIAGRAM:
 
-<img width="773" height="761" alt="image" src="https://github.com/user-attachments/assets/c1f1c934-4eec-4ce0-aeed-9b681c5ddb91" />
+![image](https://github.com/user-attachments/assets/c2234494-d22f-4da6-9875-5361efb6d30c)
 
-SEQUENCE DIAGRAM
 
-<img width="778" height="563" alt="image" src="https://github.com/user-attachments/assets/0ceb9741-c271-443f-acb6-08088b007f4e" />
+## SEQUENCE DIAGRAM:
 
-PACKAGE
+![image](https://github.com/user-attachments/assets/7f5cb74f-b8ca-41ae-ba56-fedde45c73b7)
 
-<img width="766" height="455" alt="image" src="https://github.com/user-attachments/assets/a9d9733a-71ae-44c9-829b-d0dbc8042ee4" />
 
-COMMUNICATION
 
-<img width="772" height="563" alt="image" src="https://github.com/user-attachments/assets/582a40dd-12e8-47a2-9a6b-6bb3507ca576" />
+## COMMUNICATION DIAGRAM:
+
+![image](https://github.com/user-attachments/assets/b59b85e9-136a-45f8-94ab-a6a3469c5ab3)
+
+
+## ACTIVITY DIAGRAM:
+
+![image](https://github.com/user-attachments/assets/8477f28e-1b6e-40d9-8e76-3929e20b7dfd)
+
+
+
+## PACKAGE DIAGRAM:
+
+![image](https://github.com/user-attachments/assets/9a0c6e40-3b4a-4d19-bb78-4fd8b7d25322)
+
 
 
 # RESULT:
 
-Thus, the Online Ticket Reservation System was created successfully.
+Thus the project to develop e-ticketing system was developed using Star UML Software.
